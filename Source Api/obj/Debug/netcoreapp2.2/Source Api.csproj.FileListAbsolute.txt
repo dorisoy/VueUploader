@@ -1,0 +1,19 @@
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\Source Api.deps.json
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\Source Api.runtimeconfig.json
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\Source Api.runtimeconfig.dev.json
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\Source Api.dll
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\Source Api.pdb
+D:\DCMS\Source web\Source Api\bin\Debug\netcoreapp2.2\Source Api.xml
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.csprojAssemblyReference.cache
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.AssemblyInfoInputs.cache
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.AssemblyInfo.cs
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.csproj.CoreCompileInputs.cache
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.RazorAssemblyInfo.cache
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.RazorAssemblyInfo.cs
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.RazorTargetAssemblyInfo.cache
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.dll
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.pdb
+D:\DCMS\Source web\Source Api\obj\Debug\netcoreapp2.2\Source Api.genruntimeconfig.cache

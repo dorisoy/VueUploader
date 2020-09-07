@@ -1,0 +1,3 @@
+D:\DCMS\Source web\Source Web\obj\Debug\Source Web.njsprojAssemblyReference.cache
+D:\DCMS\Source web\Source Web\obj\Debug\Source Web.njsproj.CoreCompileInputs.cache
+D:\DCMS\Source web\Source Web\bin\Microsoft.NodejsTools.WebRole.dll
